@@ -5,4 +5,5 @@ We should just paste this script in our ChatGPT question asking tab.
 
 !!! CAUTION !!!
 DO NOT USE YOUR ACCOUNT AND DO NOT DO THIS IN OFFICIAL WEBSITE
+
 Use any cloned website of ChatGPT
